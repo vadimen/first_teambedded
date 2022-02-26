@@ -1,0 +1,8 @@
+Hello, vadimen!
+
+Am configurat Git-ul conform la: https://codenotfound.com/github-add-remote-git-gui-windows.html
+
+Cree ca voi fi mediocru si o sa folosesc Git GUI.
+
+Pup,
+gmishka96
